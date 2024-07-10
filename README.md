@@ -1,6 +1,7 @@
 # finalProjectSummary
 
 Overview
+
 The Finance Tracker Application is a web-based tool designed to help users manage their personal finances effectively. 
 This application allows users to track their income, expenses, and savings, providing insights into their financial habits and helping them make informed decisions.
 
